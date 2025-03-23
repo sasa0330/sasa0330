@@ -1,5 +1,13 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasa0330)](https://github.com/sasa0330/github-readme-stats)
+<h2>Profile</h2>
+<p>フロントエンドエンジニア</p>
+
+<h2>My Skills</h2>
+<img src="https://skillicons.dev/icons?i=html,css,git,js,ts,react,nextjs,tailwind&perline=5" />
+
+<h2>Status</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasa0330)](https://github.com/sasa0330/github-readme-stats)      
+
 <!--
 **sasa0330/sasa0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
